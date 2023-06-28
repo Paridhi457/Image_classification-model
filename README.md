@@ -1,4 +1,4 @@
-# Image_classification-model
+# Image_classification-model using CNN
 This repository contains code for building an image classification model using Convolutional Neural Networks (CNN) with TensorFlow. The model is trained to classify images into two classes: "Sad" and "Happy". This README file provides an overview of the code and concepts used in the project.
 
 Dependencies:
